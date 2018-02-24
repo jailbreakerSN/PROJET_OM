@@ -1,0 +1,4 @@
+# This is the admin site specific parameters
+parameters:
+    site_name: 'Orange Money Admin'
+    footer_url: 'ept.sn'
