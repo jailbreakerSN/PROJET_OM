@@ -19,3 +19,12 @@ d0b8cf,127.0.0.1,GET,http://127.0.0.1:8000/_fragment?_path=_format%3Dhtml%26_loc
 ea22c0,127.0.0.1,GET,http://127.0.0.1:8000/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DAvanzuAdminThemeBundle%253ASidebar%253Amenu,1519471379,606a24,200
 892645,127.0.0.1,GET,http://127.0.0.1:8000/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DAppBundle%253ABreadcrumb%253Abreadcrumb,1519471379,606a24,200
 606a24,127.0.0.1,GET,http://127.0.0.1:8000/dashboard,1519471379,,200
+785f95,127.0.0.1,GET,http://127.0.0.1:8000/login,1519475054,,200
+966388,127.0.0.1,GET,http://127.0.0.1:8000/css/9fe514c_blue_1.css,1519475054,c766aa,200
+c766aa,127.0.0.1,GET,http://127.0.0.1:8000/css/9fe514c_blue_1.css,1519475054,,404
+af98be,127.0.0.1,GET,http://127.0.0.1:8000/js/fa188a4_icheck.min_1.js,1519475055,fd7d63,200
+fd7d63,127.0.0.1,GET,http://127.0.0.1:8000/js/fa188a4_icheck.min_1.js,1519475055,,404
+6a12ad,127.0.0.1,GET,http://127.0.0.1:8000/js/fa188a4_icheck.min_1.js,1519475055,41563a,200
+41563a,127.0.0.1,GET,http://127.0.0.1:8000/js/fa188a4_icheck.min_1.js,1519475055,,404
+473311,127.0.0.1,GET,http://127.0.0.1:8000/bundles/avanzuadmintheme/static/dev/styles/blue.png,1519475055,04cbfa,200
+04cbfa,127.0.0.1,GET,http://127.0.0.1:8000/bundles/avanzuadmintheme/static/dev/styles/blue.png,1519475055,,404

@@ -46,7 +46,7 @@ twig:
     globals:
         site_name: '%site_name%'
         footer_url: '%footer_url%'
-#admin_skin: "%admin_skin%"
+        admin_skin: '%admin_skin%'
 # Doctrine Configuration
 doctrine:
     dbal:
